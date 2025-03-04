@@ -1,4 +1,4 @@
-# 👋 Hey, I'm صالح  
+# 👋 Hey, I'm NoMoreLife  
 
 **Owner & Developer of CookieGuard**  
 
@@ -13,11 +13,11 @@
 
 ## 📊 GitHub Stats  
 
-![ صالح's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![NoMoreLifee's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoMoreLifee&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoMoreLifee&layout=compact&theme=radical)  
 
 🚀 **Profile Views:**  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=NoMoreLifee&color=blue)  
 
 ---
 
