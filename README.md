@@ -7,7 +7,8 @@
 - 🌐 **Frontend**: HTML, CSS, JavaScript  
 - ⚙️ **Backend & Software Development**: C#  
 - 📜 **Scripting**: Lua  
-- 🔍 **Reverse Engineering & Security Analysis**  
+- 🔍 **Reverse Engineering & Security Analysis**
+- 📜 **Owner at CookieGuard**
 
 ---
 
@@ -22,9 +23,6 @@
 ---
 
 ## 🛠️ Projects & Contributions  
-
-### 🎯 [CookieGuard](#)  
-A security-focused project designed to enhance user protection. Stay tuned for updates!  
 
 ### 🔧 Other Works  
 - Web development projects using modern front-end technologies.  
