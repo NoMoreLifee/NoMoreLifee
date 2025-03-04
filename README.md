@@ -35,6 +35,7 @@
 ## 📫 Connect with Me  
 
 📩 Feel free to reach out on **Discord** or **GitHub** for collaboration or inquiries!  
+https://nomorelifee.github.io/InfoMe/
 
 ---
   
